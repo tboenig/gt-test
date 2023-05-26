@@ -18,33 +18,36 @@
 						<mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
 					</mods:language>
 					<mods:identifier type="urn">urn:nbn:de:gbv:3:3-21437</mods:identifier>
-				</mets:xmlData>
-			</mets:mdWrap>
-		</mets:dmdSec>
-		<mets:fileSec>
-			<mets:fileGrp USE="OCR-D-IMG">
-				<mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_0001">
-					<mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/f2fe1ca9-38e3-4a78-96a5-0e239d5000d3/00000182.jpg" LOCTYPE="URL" />
-				</mets:file>
-				<mets:fileGrp USE="FULLTEXT">
-					<mets:file MIMETYPE="application/alto+xml" ID="FULLTEXT_0001">
-						<mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml" LOCTYPE="OTHER" />
-					</mets:file>
-				</mets:fileSec>
-				<mets:structMap TYPE="PHYSICAL">
-					<mets:div TYPE="physSequence">
-						<mets:div ID="phys_0001" TYPE="page" LABEL="Seite 170" CONTENTIDS="urn:nbn:de:gbv:3:1-142331-p0182-2" ORDER="1">
-							<mets:fptr FILEID="IMG_MAX_0001"/>
-							<mets:fptr FILEID="FULLTEXT_0001"/>
-						</mets:div>
-					</mets:div>
-				</mets:structMap>
-				<mets:structMap TYPE="LOGICAL">
-					<mets:div ID="log_0001" DMDID="dmd_0001" LABEL="ODEM Corpus 2021">
-						<mets:fptr FILEID="IMG_MAX_0001"/>
-					</mets:div>
-				</mets:structMap>
-				<mets:structLink>
-					<mets:smLink xlink:from="log_0001" xlink:to="phys_0001"/>
-				</mets:structLink>
-			</mets:mets>
+				</mods:mods>
+			</mets:xmlData>
+		</mets:mdWrap>
+	</mets:dmdSec>
+	<mets:fileSec>
+		<mets:fileGrp USE="OCR-D-IMG">
+			<mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_0001">
+				<mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/f2fe1ca9-38e3-4a78-96a5-0e239d5000d3/00000182.jpg" LOCTYPE="URL" />
+			</mets:file>
+		</mets:fileGrp>
+		<mets:fileGrp USE="FULLTEXT">
+			<mets:file MIMETYPE="application/alto+xml" ID="FULLTEXT_0001">
+				<mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml" LOCTYPE="OTHER" />
+			</mets:file>
+		</mets:fileGrp>
+	</mets:fileSec>
+	<mets:structMap TYPE="PHYSICAL">
+		<mets:div TYPE="physSequence">
+			<mets:div ID="phys_0001" TYPE="page" LABEL="Seite 170" CONTENTIDS="urn:nbn:de:gbv:3:1-142331-p0182-2" ORDER="1">
+				<mets:fptr FILEID="IMG_MAX_0001"/>
+				<mets:fptr FILEID="FULLTEXT_0001"/>
+			</mets:div>
+		</mets:div>
+	</mets:structMap>
+	<mets:structMap TYPE="LOGICAL">
+		<mets:div ID="log_0001" DMDID="dmd_0001" LABEL="ODEM Corpus 2021">
+			<mets:fptr FILEID="IMG_MAX_0001"/>
+		</mets:div>
+	</mets:structMap>
+	<mets:structLink>
+		<mets:smLink xlink:from="log_0001" xlink:to="phys_0001"/>
+	</mets:structLink>
+</mets:mets>
