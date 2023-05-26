@@ -16,7 +16,6 @@ language:
   - fra
   - deu
   - lat
-production-software: Transkribus
 script:
   - Latn
   - Goth
