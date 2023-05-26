@@ -22,7 +22,7 @@
 			</mets:mdWrap>
 		</mets:dmdSec>
 		<mets:fileSec>
-			<mets:fileGrp USE="MAX">
+			<mets:fileGrp USE="OCR-D-IMG">
 				<mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_0001">
 					<mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/f2fe1ca9-38e3-4a78-96a5-0e239d5000d3/00000182.jpg" LOCTYPE="URL" />
 				</mets:file>
