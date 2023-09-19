@@ -285,52 +285,52 @@
         </mets:fileGrp>
         <mets:fileGrp USE="FULLTEXT">
             <mets:file ID="FULLTEXT_1" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-112032-p0026-5_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-112032-p0026-5_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_2" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-113129-p0007-8_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113129-p0007-8_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_3" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/lat/urn+nbn+de+gbv+3+1-113407-p0043-1_lat.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113407-p0043-1_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_4" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-113523-p0442-2_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113523-p0442-2_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_5" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-113729-p0186-9_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113729-p0186-9_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_6" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/lat+ger/urn+nbn+de+gbv+3+1-113892-p0126-1_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113892-p0126-1_lat+ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_7" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114032-p0067-1_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114032-p0067-1_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_8" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114032-p0112-1_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114032-p0112-1_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_9" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/lat+ger/urn+nbn+de+gbv+3+1-114122-p0417-5_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114122-p0417-5_lat+ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_10" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/lat+ger/urn+nbn+de+gbv+3+1-114122-p0422-3_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114122-p0422-3_lat+ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_11" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114291-p0178-3_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114291-p0178-3_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_12" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114291-p0731-3_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114291-p0731-3_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_13" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/lat/urn+nbn+de+gbv+3+1-114513-p0106-6_lat.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114513-p0106-6_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_14" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114532-p0176-8_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114532-p0176-8_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_15" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114632-p0650-5_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114632-p0650-5_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
             <mets:file ID="FULLTEXT_16" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/ger/urn+nbn+de+gbv+3+1-114632-p0892-3_ger.gt.xml" LOCTYPE="OTHER"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-114632-p0892-3_ger.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>
