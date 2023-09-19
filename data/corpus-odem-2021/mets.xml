@@ -1,53 +1,441 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink"
-	xmlns:mets="http://www.loc.gov/METS/"
-	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xmlns:mods="http://www.loc.gov/mods/v3"
-	xmlns:dv="http://dfg-viewer.de/"
-	xmlns:vlz="http://visuallibrary.net/vlz/1.0/"
-	xmlns:zvdd="http://zvdd.gdz-cms.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version112/mets.xsd" OBJID="2" LABEL="Inhouse-Digitalisierung">
-	<mets:dmdSec ID="dmd_0001">
-		<mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
-			<mets:xmlData>
-				<mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
-					<mods:titleInfo>
-						<mods:title>Ode In Solemni Panegyri Avgvstissimo Ac Potentissimo Monarchae Et Domino, Christiano VI. Daniae, Norvegiae .. Regi ... D. VI. Ivnii MDCCXXXI. In Celeberrima Lipsiensivm Academia Habita Concentibvs Mvsicis Decantata</mods:title>
-					</mods:titleInfo>
-					<mods:typeOfResource>text</mods:typeOfResource>
-					<mods:language>
-						<mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
-					</mods:language>
-					<mods:identifier type="urn">urn:nbn:de:gbv:3:3-21437</mods:identifier>
-				</mods:mods>
-			</mets:xmlData>
-		</mets:mdWrap>
-	</mets:dmdSec>
-	<mets:fileSec>
-		<mets:fileGrp USE="OCR-D-IMG">
-			<mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_0001">
-				<mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/f2fe1ca9-38e3-4a78-96a5-0e239d5000d3/00000182.jpg" LOCTYPE="URL" />
-			</mets:file>
-		</mets:fileGrp>
-		<mets:fileGrp USE="FULLTEXT">
-			<mets:file MIMETYPE="application/alto+xml" ID="FULLTEXT_0001">
-				<mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-142331-p0182-2_lat+ger.gt.xml" LOCTYPE="OTHER" />
-			</mets:file>
-		</mets:fileGrp>
-	</mets:fileSec>
-	<mets:structMap TYPE="PHYSICAL">
-		<mets:div TYPE="physSequence">
-			<mets:div ID="phys_0001" TYPE="page" LABEL="Seite 170" CONTENTIDS="urn:nbn:de:gbv:3:1-142331-p0182-2" ORDER="1">
-				<mets:fptr FILEID="IMG_MAX_0001"/>
-				<mets:fptr FILEID="FULLTEXT_0001"/>
-			</mets:div>
-		</mets:div>
-	</mets:structMap>
-	<mets:structMap TYPE="LOGICAL">
-		<mets:div ID="log_0001" DMDID="dmd_0001" LABEL="ODEM Corpus 2021">
-			<mets:fptr FILEID="IMG_MAX_0001"/>
-		</mets:div>
-	</mets:structMap>
-	<mets:structLink>
-		<mets:smLink xlink:from="log_0001" xlink:to="phys_0001"/>
-	</mets:structLink>
+<?xml version='1.0' encoding='UTF-8'?>
+<mets:mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:vlz="http://visuallibrary.net/vlz/1.0/" xmlns:zvdd="http://zvdd.gdz-cms.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version112/mets.xsd" OBJID="2" LABEL="Inhouse-Digitalisierung">
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1180106">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Schilderung der merkwürdigsten Ereignisse zur Zeit des Bombardements der Stadt Zittau, am 23. July 1757, nach handschriftlichen Aufzeichnungen glaubwürdiger Männer</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10069143</mods:identifier>
+                    <mods:identifier type="gbv">18177299X</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-112032</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40019</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1177266">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:nonSort>Die</mods:nonSort>
+                        <mods:title>Hochtheure und Ueberschwänglich Grosse Seligkeit Die Der Herr Jesus Christus Durch seinen Tod uns erworben hat</mods:title>
+                        <mods:subTitle>Betrachtet Am Charfreytage 1749 über Ebrer 10, 19-22</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10091467</mods:identifier>
+                    <mods:identifier type="gbv">315201924</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113129</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40047</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1180618">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Disputatio Theologica De Spiritus Sanct[us] Apparatione Et Descensu[s] Super Christum Baptizatu[m] In Specie Columbæ, Matth. III, 16. Marc. I, 10. Luc. X, 22.</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10095667</mods:identifier>
+                    <mods:identifier type="gbv">332912043</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113407</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40060</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1177954">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Io. Georgii Pritii, Der heiligen Schrifft Doctorn, und des Ministerii in Franckfurth Seniorn, Geistliche Tugend- und Sitten-Lehre</mods:title>
+                        <mods:subTitle>Darinnen der Weg gezeiget wird, auff welchem Ein rechtschaffener Christ zu seiner warhafftigen Glückseeligkeit gelangen kan</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">1007497X</mods:identifier>
+                    <mods:identifier type="gbv">196053072</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113523</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40075</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178274">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Lehren der Weisheit, oder Sammlung der Grundsätze Salomons, welche dem Menschen zu einer klugen Aufführung nöthig sind</mods:title>
+                        <mods:subTitle>Nebst Betrachtungen über diese Grundsätze ; Aus dem Französischen übersetzt</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10083693</mods:identifier>
+                    <mods:identifier type="gbv">240875753</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113729</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40078</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178310">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Fidei Apostolicæ Fundamenta, Diebus Dominicis Et Festis Per Totum Annum Semper Retenta, Id est: Evangelicæ Et Epistolicæ Lectiones</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10089128</mods:identifier>
+                    <mods:identifier type="gbv">303476397</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113892</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40124</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178147">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Neuvermehrtes Gesang-Buch, auserlesener Sterbe- und Begräbniß-Lieder, welche in Churfürstlich-Sächsischen Landen bey Christlichen Beerdigungen Gott zu Ehren und gemeiner Erbauung können gesungen werden</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">1009105X</mods:identifier>
+                    <mods:identifier type="gbv">313474346</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114032</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40086</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178277">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Phraseologia Cæsariana, Sive Elegantiores ac difficiliores, quotquot non solum in elegantissimi nitidissimique Scriptoris, C. Julii Cæsaris Commentariis de Bello Gallico ac Civili, sed &amp; in libris A. Hirtii de eodem Bello Gallico, Alexandrino, &amp; Africano, neque non Oppii de Bello Hispaniensi occurrunt, Phrases, In commodum Studiosæ juventutis erutæ, atque idiomate Germanico donatæ</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10087052</mods:identifier>
+                    <mods:identifier type="gbv">267800150</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114122</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40096</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178148">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Neu-eingerichtetes Salfeldisches Gesang-Buch, welches nach der Ordnung des Heils sieben hundert und ein und siebenzig geistreiche sowol alte als neue auserlesene Lieder in sich fasset</mods:title>
+                        <mods:subTitle>mit nöthigen Registern, denen bey dem öffentlichen Gottesdienst gewöhnlichen Collecten,  und einem kleinen Gebet-Buch versehen</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10077812</mods:identifier>
+                    <mods:identifier type="gbv">215304330</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114291</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40100</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178220">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Cornelii Nepotis Vitae Excellentium Imperatorum</mods:title>
+                        <mods:subTitle>E Recensione Atque Cum Animadversionibus Joh. Andreae Bosii; Libellum Variarum Lectionum Et Praefationem</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10198547</mods:identifier>
+                    <mods:identifier type="bsz">017908167</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114513</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/60599</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1176980">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>D. K. G. Langreuters, Prediger in Ratzeburg, praktische Fragmente und Skizzen</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10091343</mods:identifier>
+                    <mods:identifier type="gbv">314807241</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114532</mods:identifier>
+                    <mods:identifier type="vd18">11337192</mods:identifier>
+                    <mods:identifier type="gbv">669643726</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-304828</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/80433</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1178275">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Kräftige Irrthümer Derer Freigeister, Epicurer, Heuchler, wie auch einiger schwacher Gemüther, unserer Zeit</mods:title>
+                        <mods:subTitle>In denen Sonn- und Festtäglichen Heiligen Reden durchs gantze 1744. Jahr bestritten, Und nun ... Mit vielen und nützlichen Nachrichten ... desgleichen einem fünfffachen Register ... allen und jeden ... zur Prüfung und Warnung, in einer Hand- und Haus-Postille, Als umgerissene Bollwercke des Teufels vor Augen geleget</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10083790</mods:identifier>
+                    <mods:identifier type="gbv">241412722</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-114632</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/40106</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                    </mods:language>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:fileSec>
+        <mets:fileGrp USE="OCR-D-IMG">
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1246746">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/66cd3e7c-1932-43ce-9e6c-b79ca72a5fe9/00000026.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1278993">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/eeeee05d-c7cd-4e89-9607-5d1ac175afa1/00000007.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1287120">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/7634b703-9935-4c1a-821a-be9a7b8d30d2/00000043.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1290695">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/aca4b878-c92b-47b7-92e7-99da69c00846/00000442.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1298107">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/9df73ed7-c8e0-4308-91e2-f0333a1a6765/00000186.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1339999">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/5008b06e-f090-4e17-a0ef-99befd32c442/00000126.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1307314">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/2ac18ddb-9d9a-4c3c-8746-11a1f8bd7ef2/00000067.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1307359">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/bd121671-c351-46d3-991d-7747b5f07886/00000112.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1311311">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/b6d0c423-5de8-470a-a34f-351f2605f218/00000417.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1311321">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/67ea8cbd-e05a-48a4-b3e5-2f71ad18bdb2/00000422.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1314637">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/1c1b582a-42d7-42d7-9e97-d7c0a713df85/00000178.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1315226">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/8d0ba4bf-81f1-4122-a3e5-7d374acee66a/00000731.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1334290">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/b292a591-2f62-4ef3-94e5-f8c4395813ab/00000106.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1326910">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/45a16d8e-036c-479c-aa0f-c4e3226cc3f8/00000176.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1330377">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/7ad739c1-28d3-4014-a1c0-37cec9d7d2cc/00000650.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1330631">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/b9a03c8c-2ebb-4c80-91ce-c12a10818209/00000892.jpg" LOCTYPE="URL"/>
+            </mets:file>
+        </mets:fileGrp>
+        <mets:fileGrp USE="FULLTEXT">
+            <mets:file ID="FULLTEXT_1" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-112032-p0026-5_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_2" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-113129-p0007-8_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_3" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-113407-p0043-1_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_4" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-113523-p0442-2_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_5" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-113729-p0186-9_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_6" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat+ger/urn+nbn+de+gbv+3+1-113892-p0126-1_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_7" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114032-p0067-1_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_8" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114032-p0112-1_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_9" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat+ger/urn+nbn+de+gbv+3+1-114122-p0417-5_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_10" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat+ger/urn+nbn+de+gbv+3+1-114122-p0422-3_lat+ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_11" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114291-p0178-3_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_12" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114291-p0731-3_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_13" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-114513-p0106-6_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_14" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114532-p0176-8_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_15" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114632-p0650-5_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_16" MIMETYPE="application/alto+xml">
+                <mets:FLocat xlink:href="FULLTEXT/ger/urn+nbn+de+gbv+3+1-114632-p0892-3_ger.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+        </mets:fileGrp>
+    </mets:fileSec>
+    <mets:structMap TYPE="PHYSICAL">
+        <mets:div TYPE="physSequence" ID="physroot">
+            <mets:div ID="phys1246746" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-112032-p0026-5" ORDER="26" ORDERLABEL="Seite 24">
+                <mets:fptr FILEID="IMG_MAX_1246746"/>
+                <mets:fptr FILEID="FULLTEXT_1"/>
+            </mets:div>
+            <mets:div ID="phys1278993" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113129-p0007-8" ORDER="7" ORDERLABEL="[Seite 9]">
+                <mets:fptr FILEID="IMG_MAX_1278993"/>
+                <mets:fptr FILEID="FULLTEXT_2"/>
+            </mets:div>
+            <mets:div ID="phys1287120" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113407-p0043-1" ORDER="43" ORDERLABEL="Seite 37">
+                <mets:fptr FILEID="IMG_MAX_1287120"/>
+                <mets:fptr FILEID="FULLTEXT_3"/>
+            </mets:div>
+            <mets:div ID="phys1290695" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113523-p0442-2" ORDER="442" ORDERLABEL="Seite 410">
+                <mets:fptr FILEID="IMG_MAX_1290695"/>
+                <mets:fptr FILEID="FULLTEXT_4"/>
+            </mets:div>
+            <mets:div ID="phys1298107" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113729-p0186-9" ORDER="186" ORDERLABEL="Seite 164">
+                <mets:fptr FILEID="IMG_MAX_1298107"/>
+                <mets:fptr FILEID="FULLTEXT_5"/>
+            </mets:div>
+            <mets:div ID="phys1339999" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113892-p0126-1" ORDER="126" ORDERLABEL="Seite 124">
+                <mets:fptr FILEID="IMG_MAX_1339999"/>
+                <mets:fptr FILEID="FULLTEXT_6"/>
+            </mets:div>
+            <mets:div ID="phys1307314" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114032-p0067-1" ORDER="67" ORDERLABEL="Seite 53">
+                <mets:fptr FILEID="IMG_MAX_1307314"/>
+                <mets:fptr FILEID="FULLTEXT_7"/>
+            </mets:div>
+            <mets:div ID="phys1307359" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114032-p0112-1" ORDER="112" ORDERLABEL="Seite 98">
+                <mets:fptr FILEID="IMG_MAX_1307359"/>
+                <mets:fptr FILEID="FULLTEXT_8"/>
+            </mets:div>
+            <mets:div ID="phys1311311" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114122-p0417-5" ORDER="417" ORDERLABEL="Seite 397">
+                <mets:fptr FILEID="IMG_MAX_1311311"/>
+                <mets:fptr FILEID="FULLTEXT_9"/>
+            </mets:div>
+            <mets:div ID="phys1311321" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114122-p0422-3" ORDER="422" ORDERLABEL="Seite 402">
+                <mets:fptr FILEID="IMG_MAX_1311321"/>
+                <mets:fptr FILEID="FULLTEXT_10"/>
+            </mets:div>
+            <mets:div ID="phys1314637" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114291-p0178-3" ORDER="178" ORDERLABEL="Seite 132">
+                <mets:fptr FILEID="IMG_MAX_1314637"/>
+                <mets:fptr FILEID="FULLTEXT_11"/>
+            </mets:div>
+            <mets:div ID="phys1315226" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114291-p0731-3" ORDER="731" ORDERLABEL="Seite 685">
+                <mets:fptr FILEID="IMG_MAX_1315226"/>
+                <mets:fptr FILEID="FULLTEXT_12"/>
+            </mets:div>
+            <mets:div ID="phys1334290" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114513-p0106-6" ORDER="106" ORDERLABEL="Seite 60">
+                <mets:fptr FILEID="IMG_MAX_1334290"/>
+                <mets:fptr FILEID="FULLTEXT_13"/>
+            </mets:div>
+            <mets:div ID="phys1326910" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114532-p0176-8" ORDER="176" ORDERLABEL="Seite 170">
+                <mets:fptr FILEID="IMG_MAX_1326910"/>
+                <mets:fptr FILEID="FULLTEXT_14"/>
+            </mets:div>
+            <mets:div ID="phys1330377" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114632-p0650-5" ORDER="650" ORDERLABEL="Seite 608">
+                <mets:fptr FILEID="IMG_MAX_1330377"/>
+                <mets:fptr FILEID="FULLTEXT_15"/>
+            </mets:div>
+            <mets:div ID="phys1330631" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-114632-p0892-3" ORDER="892" ORDERLABEL="Seite 850">
+                <mets:fptr FILEID="IMG_MAX_1330631"/>
+                <mets:fptr FILEID="FULLTEXT_16"/>
+            </mets:div>
+        </mets:div>
+    </mets:structMap>
+    <mets:structMap TYPE="LOGICAL">
+        <mets:div ID="log1246743" TYPE="section" LABEL="Zweiter Brief." ORDER="8" DMDID="md1180106"/>
+        <mets:div ID="log1278992" TYPE="section" LABEL="Abschnitt" ORDER="4" DMDID="md1177266"/>
+        <mets:div ID="log1287117" TYPE="section" LABEL="§. XIX. " ORDER="24" DMDID="md1180618"/>
+        <mets:div ID="log1290285" TYPE="section" LABEL="Einleitung zu Christlichen Tugend- un d Sitten-Lehre." ORDER="5" DMDID="md1177954"/>
+        <mets:div ID="log1298072" TYPE="section" LABEL="Lehren der Weisheit. Zweyter Theil." ORDER="7" DMDID="md1178274"/>
+        <mets:div ID="log1339875" TYPE="section" LABEL="[Ohne Titel]" ORDER="3" DMDID="md1178310"/>
+        <mets:div ID="log1307261" TYPE="section" LABEL="Abschnitt" ORDER="3" DMDID="md1178147"/>
+        <mets:div ID="log1307261" TYPE="section" LABEL="Abschnitt" ORDER="3" DMDID="md1178147"/>
+        <mets:div ID="log1311065" TYPE="section" LABEL="Liber ... De Bello Civili." ORDER="7" DMDID="md1178277"/>
+        <mets:div ID="log1311065" TYPE="section" LABEL="Liber ... De Bello Civili." ORDER="7" DMDID="md1178277"/>
+        <mets:div ID="log1314635" TYPE="section" LABEL="X. Von der Auferstehung Jesu Christi. " ORDER="17" DMDID="md1178148"/>
+        <mets:div ID="log1315225" TYPE="section" LABEL="XLVI. Vom geistlichen Kampf und Sieg. " ORDER="53" DMDID="md1178148"/>
+        <mets:div ID="log1334280" TYPE="section" LABEL="IIII Pausanias" ORDER="11" DMDID="md1178220"/>
+        <mets:div ID="log1326884" TYPE="section" LABEL="III. Beyspiele guter Gesinnungen. " ORDER="6" DMDID="md1176980"/>
+        <mets:div ID="log1330375" TYPE="section" LABEL="Am Fest der heiligen Dreifaltigkeit." ORDER="45" DMDID="md1178275"/>
+        <mets:div ID="log1330621" TYPE="section" LABEL="Am zehenden Sonntage nach Trinitatis. " ORDER="57" DMDID="md1178275"/>
+    </mets:structMap>
+    <mets:structLink>
+        <mets:smLink xlink:from="log1246743" xlink:to="phys1246746"/>
+        <mets:smLink xlink:from="log1278992" xlink:to="phys1278993"/>
+        <mets:smLink xlink:from="log1287117" xlink:to="phys1287120"/>
+        <mets:smLink xlink:from="log1290285" xlink:to="phys1290695"/>
+        <mets:smLink xlink:from="log1298072" xlink:to="phys1298107"/>
+        <mets:smLink xlink:from="log1339875" xlink:to="phys1339999"/>
+        <mets:smLink xlink:from="log1307261" xlink:to="phys1307314"/>
+        <mets:smLink xlink:from="log1307261" xlink:to="phys1307359"/>
+        <mets:smLink xlink:from="log1311065" xlink:to="phys1311311"/>
+        <mets:smLink xlink:from="log1311065" xlink:to="phys1311321"/>
+        <mets:smLink xlink:from="log1314635" xlink:to="phys1314637"/>
+        <mets:smLink xlink:from="log1315225" xlink:to="phys1315226"/>
+        <mets:smLink xlink:from="log1334280" xlink:to="phys1334290"/>
+        <mets:smLink xlink:from="log1326884" xlink:to="phys1326910"/>
+        <mets:smLink xlink:from="log1330375" xlink:to="phys1330377"/>
+        <mets:smLink xlink:from="log1330621" xlink:to="phys1330631"/>
+    </mets:structLink>
 </mets:mets>
