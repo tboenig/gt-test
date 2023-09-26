@@ -1,148 +1,350 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <mets:mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:mets="http://www.loc.gov/METS/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:dv="http://dfg-viewer.de/" xmlns:vlz="http://visuallibrary.net/vlz/1.0/" xmlns:zvdd="http://zvdd.gdz-cms.de/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/version112/mets.xsd" OBJID="2" LABEL="Inhouse-Digitalisierung">
-    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1180106">
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md5031561">
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
                     <mods:titleInfo>
-                        <mods:title>Schilderung der merkwürdigsten Ereignisse zur Zeit des Bombardements der Stadt Zittau, am 23. July 1757, nach handschriftlichen Aufzeichnungen glaubwürdiger Männer</mods:title>
+                        <mods:title>Io. Klefekeri Icti Et Reipvblicae Hambvrgensis Syndici Cvrae Geographicae</mods:title>
+                        <mods:subTitle>Cvm Mich. Richeii P. P. Dissertatione Epistolica De Loco Hochbvchi</mods:subTitle>
                     </mods:titleInfo>
-                    <mods:identifier type="vd18">10069143</mods:identifier>
-                    <mods:identifier type="gbv">18177299X</mods:identifier>
-                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-112032</mods:identifier>
-                    <mods:identifier type="doi">doi:10.25673/40019</mods:identifier>
-                    <mods:language>
-                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
-                    </mods:language>
-                </mods:mods>
-            </mets:xmlData>
-        </mets:mdWrap>
-    </mets:dmdSec>
-    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1177266">
-        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
-            <mets:xmlData>
-                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
-                    <mods:titleInfo>
-                        <mods:nonSort>Die</mods:nonSort>
-                        <mods:title>Hochtheure und Ueberschwänglich Grosse Seligkeit Die Der Herr Jesus Christus Durch seinen Tod uns erworben hat</mods:title>
-                        <mods:subTitle>Betrachtet Am Charfreytage 1749 über Ebrer 10, 19-22</mods:subTitle>
-                    </mods:titleInfo>
-                    <mods:identifier type="vd18">10091467</mods:identifier>
-                    <mods:identifier type="gbv">315201924</mods:identifier>
-                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113129</mods:identifier>
-                    <mods:identifier type="doi">doi:10.25673/40047</mods:identifier>
-                    <mods:language>
-                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
-                    </mods:language>
-                </mods:mods>
-            </mets:xmlData>
-        </mets:mdWrap>
-    </mets:dmdSec>
-    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1180618">
-        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
-            <mets:xmlData>
-                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
-                    <mods:titleInfo>
-                        <mods:title>Disputatio Theologica De Spiritus Sanct[us] Apparatione Et Descensu[s] Super Christum Baptizatu[m] In Specie Columbæ, Matth. III, 16. Marc. I, 10. Luc. X, 22.</mods:title>
-                    </mods:titleInfo>
-                    <mods:identifier type="vd18">10095667</mods:identifier>
-                    <mods:identifier type="gbv">332912043</mods:identifier>
-                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113407</mods:identifier>
-                    <mods:identifier type="doi">doi:10.25673/40060</mods:identifier>
+                    <mods:identifier type="vd18">11049898</mods:identifier>
+                    <mods:identifier type="gbv">136791069</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-331894</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/53688</mods:identifier>
                     <mods:language>
                         <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
                     </mods:language>
+                    <mods:genre authority="aad">Traktat</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Hamburgi</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Piscatorius</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1758</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
                 </mods:mods>
             </mets:xmlData>
         </mets:mdWrap>
     </mets:dmdSec>
-    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md1177954">
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md2922943">
         <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
             <mets:xmlData>
                 <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
                     <mods:titleInfo>
-                        <mods:title>Io. Georgii Pritii, Der heiligen Schrifft Doctorn, und des Ministerii in Franckfurth Seniorn, Geistliche Tugend- und Sitten-Lehre</mods:title>
-                        <mods:subTitle>Darinnen der Weg gezeiget wird, auff welchem Ein rechtschaffener Christ zu seiner warhafftigen Glückseeligkeit gelangen kan</mods:subTitle>
+                        <mods:title>Specimen Ivris Natvrae Exhibens Genvinam Impvtationis Notionem</mods:title>
+                        <mods:subTitle>A. D. XIIII. April. A. O. R. MDCCLXI.</mods:subTitle>
                     </mods:titleInfo>
-                    <mods:identifier type="vd18">1007497X</mods:identifier>
-                    <mods:identifier type="gbv">196053072</mods:identifier>
-                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-113523</mods:identifier>
-                    <mods:identifier type="doi">doi:10.25673/40075</mods:identifier>
+                    <mods:identifier type="vd18">10433473</mods:identifier>
+                    <mods:identifier type="gbv">267459033</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-428479</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/59128</mods:identifier>
                     <mods:language>
-                        <mods:languageTerm authority="iso639-2b" type="code">ger</mods:languageTerm>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
                     </mods:language>
+                    <mods:genre authority="aad">Dissertation:phil.</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Helmstadii</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Drimbornius</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1761</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md11360533">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Promptvarium Juris Practicum, Ad modum Locorum Communium, Ordine Alphabetico, Ex probatissimorum JCtorum Scriptis practicis, cum annotationibus eorum, quæ mutata sunt in foro Saxonico, Per Ordinationem Processus Saxonicam Recognitam, Selectum, Atq[ue] in gratiam Practicorum, inprimis autem eorum, qui, sive causis in foro perorandis occupati, sive in negotiis judicialibus vel extrajudicialibus peregre constituti, librorum suppellectilem ad manus habere nequeunt, in vicem Bibliothecæ Juridicæ Portatilis, publici juris factum</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">90461754</mods:identifier>
+                    <mods:identifier type="gbv">147544424</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-703538</mods:identifier>
+                    <mods:identifier type="vd18">10749675</mods:identifier>
+                    <mods:identifier type="gbv">147544408</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-703545</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/80908</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:genre authority="aad">Bücheranzeige</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Lipsiæ</mods:placeTerm>
+                        </mods:place>
+                        <mods:place>
+                            <mods:placeTerm type="text">Zittaviæ</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Schoepsius</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1728</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md13105225">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Annales Typographici Ab Artis Inventae Origine Ad Annvm MD Post Maittairii, Denisii Aliorumqve Doctissimorvm Virorvm Cvras In Ordinem Redacti Emendati Et Avcti</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">90580478</mods:identifier>
+                    <mods:identifier type="gbv">135424909</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-757909</mods:identifier>
+                    <mods:identifier type="vd18">11045884</mods:identifier>
+                    <mods:identifier type="gbv">135424844</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-757998</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/82425</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Norimbergae</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Zeh</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1795</mods:dateIssued>
+                        <mods:place>
+                            <mods:placeTerm type="text">Norimbergae</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Schmid</mods:publisher>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md13529334">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Statvs Militiae Germanorvm Principalis Et Accessoriae Veteris Et Medii Ævi</mods:title>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">11201738</mods:identifier>
+                    <mods:identifier type="gbv">188885374</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-770985</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/72553</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:genre authority="aad">Traktat</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Lubecae</mods:placeTerm>
+                        </mods:place>
+                        <mods:place>
+                            <mods:placeTerm type="text">Altonae</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Bibliopolia Davidis Iversenii</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1760</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md14569331">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Bibliotheca Selecta</mods:title>
+                        <mods:subTitle>Sive Catalogvs Librorvm Historico-Politico-Jvridico-Exoticorvm Nitidissime Compactorum ; Accessit Alivs Optimae Notae, Compactorvm Et Incompactorvm, Theologico-Jvridico-Philogico-Nvmismatico-Philosophico-Historico-Antiqvariorvm Adqve Litteras Elegantiores Maxime Spectantivm, Adparatvs, Vt Et Dispvtationvm Jvridcarvm Selectvs Qvorvm Lipsiæ D. XX. Seqq. Janvarii M. DCC. XLIX. In Collegii Rvbri Vaporario Parata Pecvnia Avctio Fiet Pvblica</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">10746404</mods:identifier>
+                    <mods:identifier type="gbv">147436915</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-799224</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/76949</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:genre authority="aad">Auktionskatalog</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">[Lipsiae]</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Litteris Crvcigerianis</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1749</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md14755273">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Friderici Sylburgii Catalogus Codicvm Græcorum M.SS. olim In Bibliotheca Palatina; nunc Vaticana asservatorum, &amp; Henrici Altingii, Theologi ... Historia Ecclesiastica Palatina ejusque Documentis</mods:title>
+                        <mods:subTitle>Quibus Addita sunt alia antehac non edita Virorum Illustrium Opuscula [et] Epistolæ, Quæ ad. Illustrandam Historiam Ecclesiasticam pariter ac Profanam faciunt, [et] præfixo Rerum contenarum Indice recensensur</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">11050195</mods:identifier>
+                    <mods:identifier type="gbv">136907881</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-806751</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/75847</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Francofurti a. M.</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Sande</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1701</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
+                </mods:mods>
+            </mets:xmlData>
+        </mets:mdWrap>
+    </mets:dmdSec>
+    <mets:dmdSec xmlns:b="https://bibliothek.uni-halle.de" ID="md15935477">
+        <mets:mdWrap MIMETYPE="text/xml" MDTYPE="MODS">
+            <mets:xmlData>
+                <mods:mods version="3.7" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-7.xsd">
+                    <mods:titleInfo>
+                        <mods:title>Juris Militaris Prudentia, In Formam Artis Redacta</mods:title>
+                        <mods:subTitle>Ubi Non Habitudo Modo Juris Particularis Ad Commune Appenditur; Verum Etiam Jus Ex Facto, Per Varias Ejus Circumstantias Inveniendi, Via Ostenditur, Tradita Decisionibus Confirmantur</mods:subTitle>
+                    </mods:titleInfo>
+                    <mods:identifier type="vd18">11098430</mods:identifier>
+                    <mods:identifier type="gbv">147425654</mods:identifier>
+                    <mods:identifier type="urn">urn:nbn:de:gbv:3:1-842201</mods:identifier>
+                    <mods:identifier type="doi">doi:10.25673/75305</mods:identifier>
+                    <mods:language>
+                        <mods:languageTerm authority="iso639-2b" type="code">lat</mods:languageTerm>
+                    </mods:language>
+                    <mods:genre authority="aad">Handbuch</mods:genre>
+                    <mods:originInfo eventType="publication">
+                        <mods:place>
+                            <mods:placeTerm type="text">Jenae</mods:placeTerm>
+                        </mods:place>
+                        <mods:publisher>Bielckius</mods:publisher>
+                        <mods:dateIssued encoding="iso8601" keyDate="yes">1712</mods:dateIssued>
+                        <mods:issuance>monographic</mods:issuance>
+                    </mods:originInfo>
                 </mods:mods>
             </mets:xmlData>
         </mets:mdWrap>
     </mets:dmdSec>
     <mets:fileSec>
         <mets:fileGrp USE="OCR-D-IMG">
-            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1246746">
-                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/66cd3e7c-1932-43ce-9e6c-b79ca72a5fe9/00000026.jpg" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_5088112">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/0775684d-82e9-4cb0-8e03-02f34c97949a/00000412.jpg" LOCTYPE="URL"/>
             </mets:file>
-            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1278993">
-                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/eeeee05d-c7cd-4e89-9607-5d1ac175afa1/00000007.jpg" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_7353389">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/d4c948c8-4f33-42c3-b3ed-d26223439e96/00000029.jpg" LOCTYPE="URL"/>
             </mets:file>
-            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1287120">
-                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/7634b703-9935-4c1a-821a-be9a7b8d30d2/00000043.jpg" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_11409481">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/35656e59-07ab-432f-af0b-23e6dc4ae25d/00000544.jpg" LOCTYPE="URL"/>
             </mets:file>
-            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_1290695">
-                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/aca4b878-c92b-47b7-92e7-99da69c00846/00000442.jpg" LOCTYPE="URL"/>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_13134825">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/0ac47129-be9f-4704-9d7a-19ffb9963d3b/00000542.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_14304233">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/17a86635-8be2-4c02-9b48-61480df22263/00000152.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_15687836">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/ab7822af-ba5e-41d7-8450-025f3ad5eafe/00000090.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_15811355">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/17f4b910-dee1-472c-840c-69f40217a059/00000354.jpg" LOCTYPE="URL"/>
+            </mets:file>
+            <mets:file MIMETYPE="image/jpeg" ID="IMG_MAX_16011454">
+                <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/71828ebc-0b7e-4712-9bec-f9357b4ecb15/00000538.jpg" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
         <mets:fileGrp USE="FULLTEXT">
-            <mets:file ID="FULLTEXT_1" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-112032-p0026-5_ger.gt.xml" LOCTYPE="OTHER"/>
+            <mets:file ID="FULLTEXT_1" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
-            <mets:file ID="FULLTEXT_2" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113129-p0007-8_ger.gt.xml" LOCTYPE="OTHER"/>
+            <mets:file ID="FULLTEXT_2" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
-            <mets:file ID="FULLTEXT_3" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113407-p0043-1_lat.gt.xml" LOCTYPE="OTHER"/>
+            <mets:file ID="FULLTEXT_3" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
-            <mets:file ID="FULLTEXT_4" MIMETYPE="application/alto+xml">
-                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-113523-p0442-2_ger.gt.xml" LOCTYPE="OTHER"/>
+            <mets:file ID="FULLTEXT_4" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_5" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_6" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_7" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml" LOCTYPE="OTHER"/>
+            </mets:file>
+            <mets:file ID="FULLTEXT_8" MIMETYPE="application/vnd.prima.page+xml">
+                <mets:FLocat xlink:href="FULLTEXT/lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml" LOCTYPE="OTHER"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>
     <mets:structMap TYPE="PHYSICAL">
         <mets:div TYPE="physSequence" ID="physroot">
-            <mets:div ID="phys1246746" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-112032-p0026-5" ORDER="26" ORDERLABEL="Seite 24">
-                <mets:fptr FILEID="IMG_MAX_1246746"/>
+            <mets:div ID="phys5088112" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-331894-p0412-6" ORDER="1">
+                <mets:fptr FILEID="IMG_MAX_5088112"/>
                 <mets:fptr FILEID="FULLTEXT_1"/>
             </mets:div>
-            <mets:div ID="phys1278993" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113129-p0007-8" ORDER="7" ORDERLABEL="[Seite 9]">
-                <mets:fptr FILEID="IMG_MAX_1278993"/>
+            <mets:div ID="phys7353389" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-428479-p0029-8" ORDER="2">
+                <mets:fptr FILEID="IMG_MAX_7353389"/>
                 <mets:fptr FILEID="FULLTEXT_2"/>
             </mets:div>
-            <mets:div ID="phys1287120" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113407-p0043-1" ORDER="43" ORDERLABEL="Seite 37">
-                <mets:fptr FILEID="IMG_MAX_1287120"/>
+            <mets:div ID="phys11409481" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-703538-p0544-6" ORDER="3">
+                <mets:fptr FILEID="IMG_MAX_11409481"/>
                 <mets:fptr FILEID="FULLTEXT_3"/>
             </mets:div>
-            <mets:div ID="phys1290695" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-113523-p0442-2" ORDER="442" ORDERLABEL="Seite 410">
-                <mets:fptr FILEID="IMG_MAX_1290695"/>
+            <mets:div ID="phys13134825" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-757909-p0542-9" ORDER="4">
+                <mets:fptr FILEID="IMG_MAX_13134825"/>
                 <mets:fptr FILEID="FULLTEXT_4"/>
+            </mets:div>
+            <mets:div ID="phys14304233" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-770985-p0152-7" ORDER="5">
+                <mets:fptr FILEID="IMG_MAX_14304233"/>
+                <mets:fptr FILEID="FULLTEXT_5"/>
+            </mets:div>
+            <mets:div ID="phys15687836" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-799224-p0090-7" ORDER="6">
+                <mets:fptr FILEID="IMG_MAX_15687836"/>
+                <mets:fptr FILEID="FULLTEXT_6"/>
+            </mets:div>
+            <mets:div ID="phys15811355" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-806751-p0354-4" ORDER="7">
+                <mets:fptr FILEID="IMG_MAX_15811355"/>
+                <mets:fptr FILEID="FULLTEXT_7"/>
+            </mets:div>
+            <mets:div ID="phys16011454" TYPE="page" CONTENTIDS="urn:nbn:de:gbv:3:1-842201-p0538-0" ORDER="8">
+                <mets:fptr FILEID="IMG_MAX_16011454"/>
+                <mets:fptr FILEID="FULLTEXT_8"/>
             </mets:div>
         </mets:div>
     </mets:structMap>
     <mets:structMap TYPE="LOGICAL">
-        <mets:div ID="log1246743" TYPE="section" LABEL="Zweiter Brief." ORDER="8" DMDID="md1180106">
-            <mets:fptr FILEID="IMG_MAX_1246746"/>
-        </mets:div>
-        <mets:div ID="log1278992" TYPE="section" LABEL="Abschnitt" ORDER="4" DMDID="md1177266">
-            <mets:fptr FILEID="IMG_MAX_1278993"/>
-        </mets:div>
-        <mets:div ID="log1287117" TYPE="section" LABEL="§. XIX. " ORDER="24" DMDID="md1180618">
-            <mets:fptr FILEID="IMG_MAX_1287120"/>
-        </mets:div>
-        <mets:div ID="log1290285" TYPE="section" LABEL="Einleitung zu Christlichen Tugend- un d Sitten-Lehre." ORDER="5" DMDID="md1177954">
-            <mets:fptr FILEID="IMG_MAX_1290695"/>
+        <mets:div ID="logroot" LABEL="ODEM Corpus 2021-2023" TYPE="document">
+            <mets:div ID="log5087997" TYPE="section" ORDER="1" DMDID="md5031561"/>
+            <mets:div ID="log7353372" TYPE="section" ORDER="2" DMDID="md2922943"/>
+            <mets:div ID="log11409249" TYPE="section" ORDER="3" DMDID="md11360533"/>
+            <mets:div ID="log13136568" TYPE="section" ORDER="4" DMDID="md13105225"/>
+            <mets:div ID="log14304191" TYPE="section" ORDER="5" DMDID="md13529334"/>
+            <mets:div ID="log15687734" TYPE="section" ORDER="6" DMDID="md14569331"/>
+            <mets:div ID="log16031923" TYPE="section" ORDER="7" DMDID="md14755273"/>
+            <mets:div ID="log16010878" TYPE="section" ORDER="8" DMDID="md15935477"/>
         </mets:div>
     </mets:structMap>
     <mets:structLink>
-        <mets:smLink xlink:from="log1246743" xlink:to="phys1246746"/>
-        <mets:smLink xlink:from="log1278992" xlink:to="phys1278993"/>
-        <mets:smLink xlink:from="log1287117" xlink:to="phys1287120"/>
-        <mets:smLink xlink:from="log1290285" xlink:to="phys1290695"/>
+        <mets:smLink xlink:from="log5087997" xlink:to="phys5088112"/>
+        <mets:smLink xlink:from="log7353372" xlink:to="phys7353389"/>
+        <mets:smLink xlink:from="log11409249" xlink:to="phys11409481"/>
+        <mets:smLink xlink:from="log13136568" xlink:to="phys13134825"/>
+        <mets:smLink xlink:from="log14304191" xlink:to="phys14304233"/>
+        <mets:smLink xlink:from="log15687734" xlink:to="phys15687836"/>
+        <mets:smLink xlink:from="log16031923" xlink:to="phys15811355"/>
+        <mets:smLink xlink:from="log16010878" xlink:to="phys16011454"/>
     </mets:structLink>
 </mets:mets>
