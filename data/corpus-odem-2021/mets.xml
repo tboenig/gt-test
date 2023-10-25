@@ -262,7 +262,7 @@
                 <mets:FLocat xlink:href="https://opendata.uni-halle.de/retrieve/71828ebc-0b7e-4712-9bec-f9357b4ecb15/00000538.jpg" LOCTYPE="URL"/>
             </mets:file>
         </mets:fileGrp>
-        <mets:fileGrp USE="FULLTEXT">
+        <mets:fileGrp USE="OCR-D-GT-FULLTEXT">
             <mets:file ID="FULLTEXT_1" MIMETYPE="application/vnd.prima.page+xml">
                 <mets:FLocat xlink:href="GT-PAGE/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
