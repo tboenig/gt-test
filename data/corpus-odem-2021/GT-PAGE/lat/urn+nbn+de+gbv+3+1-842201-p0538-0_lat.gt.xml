@@ -1,12 +1,14 @@
-<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="PAGE_01" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" pcGtsId="PAGE_01" 
+    xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
     <Metadata>
         <Creator>OCR-D/core 2.33.0</Creator>
         <Created>2022-05-30T11:26:47</Created>
         <LastChange>2023-03-20T16:07:43.161+01:00</LastChange>
         <Comments/>
-        <TranskribusMetadata docId="-1" pageId="-1" pageNr="40" status="IN_PROGRESS"/>
+        <!--<TranskribusMetadata docId="-1" pageId="-1" pageNr="40" status="IN_PROGRESS"/>-->
     </Metadata>
-    <Page imageFilename="MAX/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.png" imageWidth="1650" imageHeight="2198" type="content" primaryLanguage="lat">
+    <Page imageFilename="MAX/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.png" imageWidth="1650" imageHeight="2198" type="content" primaryLanguage="Latin">
         <AlternativeImage filename="OCR-D-BINPAGE/OCR-D-BINPAGE_01-BIN_sauvola-ms-split.png" comments="binarized"/>
         <AlternativeImage filename="OCR-D-SEG-PAGE-ANYOCR/OCR-D-SEG-PAGE-ANYOCR_01.IMG-CROP.png" comments="binarized,cropped"/>
         <AlternativeImage filename="OCR-D-DENOISE-OCROPY/OCR-D-DENOISE-OCROPY_01.IMG-DESPECK.png" comments="binarized,cropped,despeckled"/>
