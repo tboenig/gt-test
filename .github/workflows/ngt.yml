@@ -1,0 +1,66 @@
+name: gtrepo
+on:
+  push:
+    tags:
+      - 'vu[0-9]+.[0-9]+.[0-9]+'
+      
+      
+      
+  workflow_dispatch:
+
+
+
+jobs:
+    job1:
+        name: uniTest
+        runs-on: ubuntu-latest
+        permissions:
+            checks: write
+            contents: write
+        # Map a step output to a job output
+        outputs:
+          output1: ${{ steps.step4.outputs.test }}
+          
+        steps:
+          - name: Git checkout
+            id: step1
+            uses: actions/checkout@v3
+
+           # Installation Styles and Saxon
+      
+          - name: install analyse xsl-styles
+            id: step2
+            run: | 
+                git clone https://github.com/tboenig/gt-repo-scripts.git
+                mv gt-repo-scripts/scripts scripts/
+                rm -r gt-repo-scripts
+          
+          - name: Download and install saxon
+            id: step3
+            run: |
+              wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download 
+              unzip download      
+          
+          - name: make gh-pages_out
+            run: mkdir ghout
+
+          - name: PathTest
+            run: |
+                java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_unitTest.xsl \
+                output=unitTest1 \
+                -s:scripts/gt-overview_metadata.xsl -o:ghout/pathtest.md
+
+          - name: Empty
+            id: step4
+            run: |
+                [ -s test.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
+            
+    job2:
+       
+       runs-on: ubuntu-latest
+       needs: job1
+       if: ${{needs.job1.outputs.output1}} == 'empty'
+       steps:
+          - name: make readme_out 
+            run:  sh scripts/readmefolder.sh
+      
