@@ -64,11 +64,11 @@ jobs:
                 [ -s test.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             
     job2:
-       
+       name: makebagit
        runs-on: ubuntu-latest
        needs: job1
        if: ${{needs.job1.outputs.output1}} == 'empty'
        steps:
-          - name: make readme_out 
-            run:  sh scripts/readmefolder.sh
+        - name: make ocrdzip_out
+          run: mkdir ocrdzip_out
       
