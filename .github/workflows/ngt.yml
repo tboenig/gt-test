@@ -70,5 +70,7 @@ jobs:
        if: ${{needs.job1.outputs.output1}} == 'empty'
        steps:
         - name: make ocrdzip_out
-          run: mkdir ocrdzip_out
+          run: |
+            mkdir ocrdzip_out
+            ls
       
