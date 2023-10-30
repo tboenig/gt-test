@@ -38,30 +38,30 @@ jobs:
           - name: Download and install saxon
             id: step3
             run: |
-              wget https://sourceforge.net/projects/saxon/files/Saxon-HE/10/Java/SaxonHE10-5J.zip/download 
-              unzip download      
+              wget https://github.com/Saxonica/Saxon-HE/releases/download/SaxonHE12-3/SaxonHE12-3J.zip 
+              unzip SaxonHE12-3J.zip      
           
           - name: make gh-pages_out
-            run: mkdir ghout
+            run: mkdir unitTest
 
 
           - name: Get SDK Version from config
-            id: lookupSdkVersion
+            id: useyq
             uses: mikefarah/yq@master
             with:
              cmd: yq -o=json METADATA.yml > METADATA.json  
 
           - name: PathTest
             run: |
-                java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_unitTest.xsl \
+                java -jar saxon-he-12.3.jar -xsl:scripts/gt-overview_unitTest.xsl \
                 output=unitTest1 \
-                -s:scripts/gt-overview_unitTest.xsl -o:ghout/pathtest.md
+                -s:scripts/gt-overview_unitTest.xsl -o:unitTest/pathtest.md
             shell: bash
 
           - name: Empty
             id: step4
             run: |
-                [ -s test.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
+                [ -s unitTest/pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             
     job2:
        name: makebagit
