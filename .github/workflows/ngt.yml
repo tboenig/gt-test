@@ -76,7 +76,7 @@ jobs:
     job2:  
        name: makebagit
        needs: job1
-       if: ${{needs.job1.outputs.output1 == 'full'}}
+       if: ${{needs.job1.outputs.output2 == 'full'}}
        runs-on: ubuntu-latest
               
        steps:
