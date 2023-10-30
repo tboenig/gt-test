@@ -71,24 +71,16 @@ jobs:
           
     
             
-    job2:
-       name: uniTestLog
-       needs: job1
-       if: ${{needs.job1.outputs.output2 == 'full'}}
-       runs-on: ubuntu-latest
-       steps:
-        - name: see
-          run: |
-            less ghout/pathtest.md
+   
     
-    job3:  
+    job2:  
        name: makebagit
        needs: job1
-       if: ${{needs.job1.outputs.output1 == 'empty'}}
+       if: ${{needs.job1.outputs.output1 == 'full'}}
        runs-on: ubuntu-latest
               
        steps:
         - name: make ocrdzip_out
           run: |
-            echo ${{needs.job1.outputs.output1}}
+            echo ${{needs.job1.outputs.output2}}
       
