@@ -55,21 +55,19 @@ jobs:
             run: |
                 java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_unitTest.xsl \
                 output=unitTest1 \
-                -s:scripts/gt-overview_unitTest.xsl -o:pathtest.md
+                -s:scripts/gt-overview_unitTest.xsl -o:ghout/pathtest.md
             shell: bash
 
           - name: Empty
             id: step4
             run: |
-                test -s pathtest.md
-                test -s pathtest.md || echo "fempty" >> "${GITHUB_OUTPUT}"
-            shell: bash
+                [ -s test.md ] || echo "test=empty" >> $GITHUB_OUTPUT
             
     job2:
        name: makebagit
        runs-on: ubuntu-latest
        needs: job1
-       if: ${{needs.job1.outputs.output1}} == 'empty'
+       if: ${{needs.job1.outputs.output1.test}} == 'empty'
        steps:
         - name: make ocrdzip_out
           run: |
