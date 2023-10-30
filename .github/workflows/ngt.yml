@@ -64,7 +64,10 @@ jobs:
             run: |
                 [ -s ghout/pathtest.md ] || echo "test=empty" >> $GITHUB_OUTPUT
                 [ ! -s ghout/pathtest.md ] || echo "test2=full" >> $GITHUB_OUTPUT
+                [ ! -s ghout/pathtest.md ] || less ghout/pathtest.md 
 
+          
+            
           
     
             
