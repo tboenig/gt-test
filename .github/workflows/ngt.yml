@@ -64,7 +64,7 @@ jobs:
                 pwd
                 ls
                 cd unitTest
-                ls -l
+                less pathtest.md
                 [ -s unitTest/pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             
     job2:
