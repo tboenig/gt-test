@@ -65,9 +65,11 @@ jobs:
             
     job2:
        name: makebagit
-       runs-on: ubuntu-latest
        needs: job1
        if: ${{needs.job1.outputs.output1}} == fempty
+       runs-on: ubuntu-latest
+       
+       
        steps:
         - name: make ocrdzip_out
           run: |
