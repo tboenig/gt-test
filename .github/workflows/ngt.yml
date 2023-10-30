@@ -55,13 +55,13 @@ jobs:
             run: |
                 java -jar saxon-he-10.5.jar -xsl:scripts/gt-overview_unitTest.xsl \
                 output=unitTest1 \
-                -s:scripts/gt-overview_unitTest.xsl -o:ghout/pathtest.md
+                -s:scripts/gt-overview_unitTest.xsl -o:pathtest.md
             shell: bash
 
           - name: Empty
             id: step4
             run: |
-                [ -s test.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
+                [ -s pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             
     job2:
        name: makebagit
