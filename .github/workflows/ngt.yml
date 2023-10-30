@@ -64,8 +64,7 @@ jobs:
             run: |
                 [ -s ghout/pathtest.md ] || echo "test=empty" >> $GITHUB_OUTPUT
                 [ ! -s ghout/pathtest.md ] || echo "test2=full" >> $GITHUB_OUTPUT
-                [ ! -s ghout/pathtest.md ] || less ghout/pathtest.md 
-
+                
           - name: Full
             id: step5
             if: ${{steps.step4.outputs.test2 == 'full'}}
@@ -89,5 +88,5 @@ jobs:
        steps:
         - name: make ocrdzip_out
           run: |
-            echo ${{needs.job1.outputs.output2}}
+            echo ${{needs.job1.outputs.output1}}
       
