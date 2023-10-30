@@ -20,6 +20,7 @@ jobs:
         # Map a step output to a job output
         outputs:
           output1: ${{ steps.step4.outputs.test }}
+          output2: ${{ steps.step4.outputs.test2 }}
           
         steps:
           - name: Git checkout
@@ -61,12 +62,20 @@ jobs:
           - name: Empty
             id: step4
             run: |
-                [ ! -s ghout/pathtest.md ] || echo "test=fempty" >> $GITHUB_OUTPUT
+                [ -s ghout/pathtest.md ] || echo "test=empty" >> $GITHUB_OUTPUT
+                [ ! -s ghout/pathtest.md ] || echo "test2=full" >> $GITHUB_OUTPUT
+
+          - name: uniTestLog
+            id: step5
+            if: ${{steps.step4.outputs.output2 == 'full'}}
+            run: |
+                less ghout/pathtest.md
+    
             
     job2:
        name: makebagit
        needs: job1
-       if: ${{needs.job1.outputs.output1 == 'fempty'}}
+       if: ${{needs.job1.outputs.output1 == 'empty'}}
        runs-on: ubuntu-latest
        
        
