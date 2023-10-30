@@ -61,6 +61,10 @@ jobs:
           - name: Empty
             id: step4
             run: |
+                pwd
+                ls
+                cd unitTest
+                ls -l
                 [ -s unitTest/pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             
     job2:
