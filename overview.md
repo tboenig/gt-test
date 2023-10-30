@@ -134,8 +134,11 @@
    </thead>
    <tbody>
       <tr>
-         <th>lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</th>
-         <td>8</td>
+         <th>lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</th>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -146,15 +149,12 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>0</td>
-         <td>43</td>
+         <td>34</td>
          <td>1</td>
       </tr>
       <tr>
-         <th>lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</th>
-         <td>7</td>
+         <th>lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</th>
+         <td>3</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -168,7 +168,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>39</td>
+         <td>34</td>
          <td>1</td>
       </tr>
       <tr>
@@ -191,10 +191,7 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</th>
-         <td>9</td>
-         <td>0</td>
-         <td>0</td>
+         <th>lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</th>
          <td>1</td>
          <td>0</td>
          <td>0</td>
@@ -206,7 +203,10 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>34</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>29</td>
          <td>1</td>
       </tr>
       <tr>
@@ -229,8 +229,27 @@
          <td>1</td>
       </tr>
       <tr>
-         <th>lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</th>
+         <th>lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>39</td>
          <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</th>
+         <td>8</td>
          <td>0</td>
          <td>0</td>
          <td>0</td>
@@ -244,7 +263,7 @@
          <td>0</td>
          <td>0</td>
          <td>0</td>
-         <td>29</td>
+         <td>43</td>
          <td>1</td>
       </tr>
       <tr>
@@ -267,6 +286,25 @@
          <td>1</td>
       </tr>
       <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</th>
+         <td>9</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>34</td>
+         <td>1</td>
+      </tr>
+      <tr>
          <th>lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</th>
          <td>3</td>
          <td>0</td>
@@ -283,6 +321,120 @@
          <td>0</td>
          <td>0</td>
          <td>34</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</th>
+         <td>5</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>57</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</th>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>29</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</th>
+         <td>4</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>27</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</th>
+         <td>7</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>39</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</th>
+         <td>8</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>43</td>
+         <td>1</td>
+      </tr>
+      <tr>
+         <th>lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</th>
+         <td>6</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>1</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>39</td>
          <td>1</td>
       </tr>
    </tbody>

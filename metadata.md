@@ -159,7 +159,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt-test/releases/tag/v3.0.1">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 4_v3.0.1</a>
+         <a href="https://github.com/tboenig/gt-test/releases/tag/vu1.1.0">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 46_vu1.1.0</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt-test/releases">Version archive</a>
@@ -229,11 +229,11 @@ An image database</p>
       </thead>
       <tbody>
          <tr>
-            <td>302</td>
-            <td>8</td>
-            <td>43</td>
-            <td>1</td>
-            <td>1</td>
+            <td>604</td>
+            <td>16</td>
+            <td>86</td>
+            <td>2</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>

@@ -32,11 +32,11 @@
   "format": "Page-XML",
   "transcription-guidelines": "OCR-D-GT",
   "volume": {
-    "TxtRegion": "43",
-    "GraphRegion": "1",
-    "SepRegion": "1",
-    "TextLine": "302",
-    "Page": "8"
+    "TxtRegion": "86",
+    "GraphRegion": "2",
+    "SepRegion": "2",
+    "TextLine": "604",
+    "Page": "16"
   },
   "labelling": [
     "content-type/corpus",
