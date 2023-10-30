@@ -61,7 +61,7 @@ jobs:
           - name: Empty
             id: step4
             run: |
-                [ -s test.md ] || echo "test=fempty" >> $GITHUB_OUTPUT
+                [ -s pathtest.md ] || echo "test=fempty" >> $GITHUB_OUTPUT
             
     job2:
        name: makebagit
@@ -70,5 +70,5 @@ jobs:
        steps:
         - name: make ocrdzip_out
           run: |
-            echo hallo [${{needs.job1.outputs.output1}}]
+            echo ${{needs.job1.outputs.output1}}
       
