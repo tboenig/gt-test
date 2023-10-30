@@ -64,6 +64,7 @@ jobs:
                 less pathtest.md
                 [ -s pathtest.md ] || echo "test=empty"
                 [ -s pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
+            shell: bash
             
     job2:
        name: makebagit
