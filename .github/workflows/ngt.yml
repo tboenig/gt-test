@@ -19,7 +19,7 @@ jobs:
             contents: write
         # Map a step output to a job output
         outputs:
-          output1: ${{ steps.step4.outputs.test }}
+          output1: ${{ steps.step4.outputs.pathtest }}
           
         steps:
           - name: Git checkout
@@ -61,11 +61,7 @@ jobs:
           - name: Empty
             id: step4
             run: |
-                pwd
-                ls
-                cd unitTest
-                less pathtest.md
-                [ -s unitTest/pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
+                [ -s pathtest.md ] || echo "pathtest=empty" >> "$GITHUB_OUTPUT"
             
     job2:
        name: makebagit
