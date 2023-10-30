@@ -65,20 +65,25 @@ jobs:
                 [ -s ghout/pathtest.md ] || echo "test=empty" >> $GITHUB_OUTPUT
                 [ ! -s ghout/pathtest.md ] || echo "test2=full" >> $GITHUB_OUTPUT
 
-          - name: uniTestLog
-            id: step5
-            if: ${{steps.step4.outputs.output2 == 'full'}}
-            run: |
-                less ghout/pathtest.md
+          
     
             
     job2:
+       name: uniTestLog
+       needs: job1
+       if: ${{needs.job1.outputs.output2 == 'full'}}
+       runs-on: ubuntu-latest
+       steps:
+        - name: see
+          run: |
+            less ghout/pathtest.md
+    
+    job3:  
        name: makebagit
        needs: job1
        if: ${{needs.job1.outputs.output1 == 'empty'}}
        runs-on: ubuntu-latest
-       
-       
+              
        steps:
         - name: make ocrdzip_out
           run: |
