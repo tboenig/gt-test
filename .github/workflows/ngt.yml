@@ -61,7 +61,7 @@ jobs:
           - name: Empty
             id: step4
             run: |
-                [ ! -s ghout/pathtest.md ] || echo "test=fempty" >> $GITHUB_OUTPUT
+                [ -s ghout/pathtest.md ] || echo "test=fempty" >> $GITHUB_OUTPUT
             
     job2:
        name: makebagit
