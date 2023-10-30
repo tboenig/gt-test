@@ -61,7 +61,8 @@ jobs:
           - name: Empty
             id: step4
             run: |
-                sh scripts/emptytest.sh >> "$GITHUB_OUTPUT"
+                test -s pathtest.md
+                test -s pathtest.md || echo "empty" >> "${GITHUB_OUTPUT}"
             shell: bash
             
     job2:
