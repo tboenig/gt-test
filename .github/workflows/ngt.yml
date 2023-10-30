@@ -62,7 +62,7 @@ jobs:
             id: step4
             run: |
                 test -s pathtest.md
-                test -s pathtest.md || echo "empty" >> "${GITHUB_OUTPUT}"
+                test -s pathtest.md || echo "fempty" >> "${GITHUB_OUTPUT}"
             shell: bash
             
     job2:
