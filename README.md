@@ -30,11 +30,11 @@
       </thead>
       <tbody>
          <tr>
-            <td>302</td>
-            <td>8</td>
-            <td>43</td>
-            <td>1</td>
-            <td>1</td>
+            <td>604</td>
+            <td>16</td>
+            <td>86</td>
+            <td>2</td>
+            <td>2</td>
          </tr>
       </tbody>
    </table>
@@ -64,6 +64,25 @@
                </tr>
             </thead>
             <tbody>
+               <tr>
+                  <td>corpus-odem-2021-Kopie</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>302</td>
+                  <td>8</td>
+               </tr>
                <tr>
                   <td>corpus-odem-2021</td>
                   <td>43</td>
