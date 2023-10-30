@@ -62,7 +62,7 @@ jobs:
             id: step4
             run: |
                 less pathtest.md
-                [ -s pathtest.md ] || echo "test=empty"
+                test -s pathtest.md  || echo "test=empty"
                 [ -s pathtest.md ] || echo "test=empty" >> "$GITHUB_OUTPUT"
             shell: bash
             
