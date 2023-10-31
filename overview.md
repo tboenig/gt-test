@@ -134,6 +134,25 @@
    </thead>
    <tbody>
       <tr>
+         <th>GT-PAGE/hallo.xml</th>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+         <td>0</td>
+      </tr>
+      <tr>
          <th>lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</th>
          <td>9</td>
          <td>0</td>
