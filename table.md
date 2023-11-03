@@ -189,223 +189,6 @@
          </thead>
          <tbody>
             <tr>
-               <th>corpus-odem-2021-Kopie</th>
-               <td>302</td>
-               <td>8</td>
-               <td>43</td>
-               <td>0</td>
-               <td>0</td>
-               <td>1</td>
-               <td>0</td>
-               <td>0</td>
-               <td>1</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-               <td>0</td>
-            </tr>
-            <tr>
-               <td colspan="17" style="text-align:left !important;">
-                  <details>
-                     <summary>Overview</summary>
-                     <table>
-                        <thead>
-                           <tr>
-                              <th>document</th>
-                              <th>TextLine</th>
-                              <th>Page</th>
-                              <th>TxtRegion</th>
-                              <th>ImgRegion</th>
-                              <th>LineDrawRegion</th>
-                              <th>GraphRegion</th>
-                              <th>TabRegion</th>
-                              <th>ChartRegion</th>
-                              <th>SepRegion</th>
-                              <th>MathRegion</th>
-                              <th>ChemRegion</th>
-                              <th>MusicRegion</th>
-                              <th>AdRegion</th>
-                              <th>NoiseRegion</th>
-                              <th>UnkownRegion</th>
-                              <th>CustomRegion</th>
-                           </tr>
-                        </thead>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
-                           </td>
-                           <td>57</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
-                           </td>
-                           <td>27</td>
-                           <td>1</td>
-                           <td>4</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>7</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
-                           </td>
-                           <td>43</td>
-                           <td>1</td>
-                           <td>8</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
-                           </td>
-                           <td>39</td>
-                           <td>1</td>
-                           <td>6</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                     </table>
-                  </details>
-               </td>
-            </tr>
-            <tr>
                <th>corpus-odem-2021</th>
                <td>302</td>
                <td>8</td>
@@ -452,91 +235,7 @@
                         </thead>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>9</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
-                           </td>
-                           <td>34</td>
-                           <td>1</td>
-                           <td>3</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
-                           </td>
-                           <td>57</td>
-                           <td>1</td>
-                           <td>5</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
-                           </td>
-                           <td>29</td>
-                           <td>1</td>
-                           <td>1</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                           <td>0</td>
-                        </tr>
-                        <tr>
-                           <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
                            </td>
                            <td>27</td>
                            <td>1</td>
@@ -557,7 +256,70 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>6</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -578,7 +340,28 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
+                           </td>
+                           <td>57</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
                            </td>
                            <td>43</td>
                            <td>1</td>
@@ -599,7 +382,98 @@
                         </tr>
                         <tr>
                            <td>
-                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.33/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021/GT-PAGE/lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                     </table>
+                  </details>
+               </td>
+            </tr>
+            <tr>
+               <th>corpus-odem-2021-Kopie</th>
+               <td>302</td>
+               <td>8</td>
+               <td>43</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+               <td>1</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+               <td>0</td>
+            </tr>
+            <tr>
+               <td colspan="17" style="text-align:left !important;">
+                  <details>
+                     <summary>Overview</summary>
+                     <table>
+                        <thead>
+                           <tr>
+                              <th>document</th>
+                              <th>TextLine</th>
+                              <th>Page</th>
+                              <th>TxtRegion</th>
+                              <th>ImgRegion</th>
+                              <th>LineDrawRegion</th>
+                              <th>GraphRegion</th>
+                              <th>TabRegion</th>
+                              <th>ChartRegion</th>
+                              <th>SepRegion</th>
+                              <th>MathRegion</th>
+                              <th>ChemRegion</th>
+                              <th>MusicRegion</th>
+                              <th>AdRegion</th>
+                              <th>NoiseRegion</th>
+                              <th>UnkownRegion</th>
+                              <th>CustomRegion</th>
+                           </tr>
+                        </thead>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml</a>
+                           </td>
+                           <td>27</td>
+                           <td>1</td>
+                           <td>4</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml</a>
                            </td>
                            <td>39</td>
                            <td>1</td>
@@ -610,6 +484,132 @@
                            <td>0</td>
                            <td>0</td>
                            <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>3</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml</a>
+                           </td>
+                           <td>29</td>
+                           <td>1</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml</a>
+                           </td>
+                           <td>39</td>
+                           <td>1</td>
+                           <td>7</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml</a>
+                           </td>
+                           <td>57</td>
+                           <td>1</td>
+                           <td>5</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml</a>
+                           </td>
+                           <td>43</td>
+                           <td>1</td>
+                           <td>8</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
+                        </tr>
+                        <tr>
+                           <td>
+                              <a href="https://github.com/tboenig/gt-test/blob/vu1.1.34/data/corpus-odem-2021-Kopie/GT-PAGE/lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml">lat/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml</a>
+                           </td>
+                           <td>34</td>
+                           <td>1</td>
+                           <td>9</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>1</td>
+                           <td>0</td>
+                           <td>0</td>
+                           <td>0</td>
                            <td>0</td>
                            <td>0</td>
                            <td>0</td>
