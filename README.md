@@ -65,7 +65,7 @@
             </thead>
             <tbody>
                <tr>
-                  <td>corpus-odem-2021-Kopie</td>
+                  <td>corpus-odem-2021</td>
                   <td>43</td>
                   <td/>
                   <td/>
@@ -84,7 +84,7 @@
                   <td>8</td>
                </tr>
                <tr>
-                  <td>corpus-odem-2021</td>
+                  <td>corpus-odem-2021-Kopie</td>
                   <td>43</td>
                   <td/>
                   <td/>
