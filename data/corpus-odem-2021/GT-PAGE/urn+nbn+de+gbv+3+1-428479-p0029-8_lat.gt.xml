@@ -7,51 +7,6 @@
         <TranskribusMetadata docId="-1" pageId="-1" pageNr="12" status="IN_PROGRESS"/>
     </Metadata>
     <Page imageFilename="urn+nbn+de+gbv+3+1-428479-p0029-8_lat.jpg" imageWidth="2389" imageHeight="2895" type="content" primaryLanguage="lat">
-        <AlternativeImage filename="OCR-D-BINPAGE/OCR-D-BINPAGE_01-BIN_sauvola-ms-split.png" comments="binarized"/>
-        <AlternativeImage filename="OCR-D-SEG-PAGE-ANYOCR/OCR-D-SEG-PAGE-ANYOCR_01.IMG-CROP.png" comments="binarized,cropped"/>
-        <AlternativeImage filename="OCR-D-DENOISE-OCROPY/OCR-D-DENOISE-OCROPY_01.IMG-DESPECK.png" comments="binarized,cropped,despeckled"/>
-        <AlternativeImage filename="OCR-D-SEG-BLOCK-TESSERACT/OCR-D-SEG-BLOCK-TESSERACT_01.IMG-BIN.png" comments="binarized,cropped,despeckled,binarized,clipped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0001_region0001_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0002.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0002.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0003.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0004.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0005.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0006.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0007.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0008.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0009.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0010.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0011.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0002_region0002_line0012.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0003.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0003_region0003_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0004.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0004_region0004_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-CLIP/OCR-D-CLIP_01_region0005.IMG-CLIP.png" comments="binarized,despeckled,binarized,clipped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0005_region0005_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0005_region0005_line0002.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0001.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0002.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0003.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0004.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0005.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0006.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0007.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0008.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0009.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0010.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0011.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0012.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0013.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0014.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0015.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0016.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0017.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0018.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0019.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
-        <AlternativeImage filename="OCR-D-DEWARP/OCR-D-DEWARP_01_region0006_region0006_line0020.IMG-DEWARP.png" comments="binarized,despeckled,binarized,dewarped"/>
         <Border>
             <Coords points="137,345 114,2789 2240,2797 2241,346"/>
         </Border>
