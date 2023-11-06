@@ -264,28 +264,28 @@
         </mets:fileGrp>
         <mets:fileGrp USE="FULLTEXT">
             <mets:file ID="FULLTEXT_1" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-331894-p0412-6_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_2" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-428479-p0029-8_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_3" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-703538-p0544-6_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_4" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-757909-p0542-9_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_5" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-770985-p0152-7_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_6" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-799224-p0090-7_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_7" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-806751-p0354-4_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
             <mets:file ID="FULLTEXT_8" MIMETYPE="application/vnd.prima.page+xml">
-                <mets:FLocat xlink:href="lat/GT-PAGE/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
+                <mets:FLocat xlink:href="GT-PAGE/urn+nbn+de+gbv+3+1-842201-p0538-0_lat.gt.xml" LOCTYPE="OTHER" OTHERLOCTYPE="FILE"/>
             </mets:file>
         </mets:fileGrp>
     </mets:fileSec>
