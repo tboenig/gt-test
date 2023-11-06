@@ -23,12 +23,18 @@
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>302</td>
+            <td>8</td>
+            <td>43</td>
+            <td>1</td>
+            <td>1</td>
          </tr>
       </tbody>
    </table>
@@ -57,7 +63,27 @@
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>corpus-odem-2021</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>302</td>
+                  <td>8</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
