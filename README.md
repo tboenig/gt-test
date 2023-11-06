@@ -65,7 +65,7 @@
             </thead>
             <tbody>
                <tr>
-                  <td>corpus-odem-2021/lat</td>
+                  <td>corpus-odem-2021-lat</td>
                   <td>43</td>
                   <td/>
                   <td/>
