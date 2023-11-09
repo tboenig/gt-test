@@ -23,12 +23,20 @@
          <tr>
             <th>TextLine</th>
             <th>Page</th>
+            <th>TxtRegion</th>
+            <th>GraphRegion</th>
+            <th>SepRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>0</td>
-            <td>0</td>
+            <td>4961</td>
+            <td>128</td>
+            <td>780</td>
+            <td>18</td>
+            <td>5</td>
+            <td>8</td>
          </tr>
       </tbody>
    </table>
@@ -57,7 +65,27 @@
                   <th>Page</th>
                </tr>
             </thead>
-            <tbody/>
+            <tbody>
+               <tr>
+                  <td>corpus-odem-2021-lat</td>
+                  <td>780</td>
+                  <td/>
+                  <td/>
+                  <td>18</td>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td>4961</td>
+                  <td>128</td>
+               </tr>
+            </tbody>
          </table>
       </div>
    </div>
