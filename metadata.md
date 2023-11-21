@@ -126,6 +126,13 @@ An image database</p>
          <strong>Description: </strong>Blackletter, gothic, Fraktur</p>
    </details>
    <details>
+      <summary>granularity/logical/document-related/paragraph</summary>
+      <p>
+         <strong>Description: </strong>
+                        Description coming soon.
+                    </p>
+   </details>
+   <details>
       <summary>granularity/physical/document-related/page</summary>
       <p>
          <strong>Description: </strong>
@@ -159,7 +166,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt-test/releases/tag/vu1.1.35">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 81_vu1.1.35</a>
+         <a href="https://github.com/tboenig/gt-test/releases/tag/v2.1.3">The BagIt 'ocrd.zip' files for the current version, please download them from the latest release.: Release 7_v2.1.3</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt-test/releases">Version archive</a>
@@ -193,6 +200,11 @@ An image database</p>
                      <a href="https://ocr-d.de/de/gt-guidelines/trans/lySeparatoren.html"
                         target="_blank">SeperatorRegion</a>
                   </dd>
+                  <dt>NoiseRegion</dt>
+                  <dd>
+                     <a href="https://ocr-d.de/de/gt-guidelines/trans/lyRauschen.html"
+                        target="_blank">NoiseRegion</a>
+                  </dd>
                </dl>
             </details>
          </td>
@@ -213,6 +225,9 @@ An image database</p>
                <button onclick="document.getElementById('table_id').classList.toggle('hide9')">
                   <i>SepRegion</i>
                </button>
+               <button onclick="document.getElementById('table_id').classList.toggle('hide14')">
+                  <i>NoiseRegion</i>
+               </button>
             </div>
          </td>
       </tr>
@@ -225,15 +240,17 @@ An image database</p>
             <th>TxtRegion</th>
             <th>GraphRegion</th>
             <th>SepRegion</th>
+            <th>NoiseRegion</th>
          </tr>
       </thead>
       <tbody>
          <tr>
-            <td>604</td>
-            <td>16</td>
-            <td>86</td>
-            <td>2</td>
-            <td>2</td>
+            <td>4961</td>
+            <td>128</td>
+            <td>780</td>
+            <td>18</td>
+            <td>5</td>
+            <td>8</td>
          </tr>
       </tbody>
    </table>
