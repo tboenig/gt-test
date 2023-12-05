@@ -2,7 +2,13 @@
   "schema": "https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json",
   "title": "ODEM Test",
   "url": "https://github.com/M3ssman/gt-test",
-  "authors": [],
+  "authors": [
+    {
+      "name": "Uwe",
+      "surname": "Hartwig",
+      "orcid": "0000-0001-7164-6376"
+    }
+  ],
   "description": "ODEM Test GT",
   "language": [
     "fra",
