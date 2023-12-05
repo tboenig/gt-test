@@ -3,12 +3,13 @@ cff-version: 1.2.0
 title: ODEM Test
 message: If you use this dataset, please cite it using the metadata from this file.
 type: dataset
-authors:        
-                - given-names: Uwe
-                  family-names: Hartwig
-                  orcid: 0000-0001-7164-6376
-                - given-names: Matthias
-                  family-names: Boenig
+authors:
+  
+  - given-names: Uwe
+    family-names: Hartwig
+    orcid: 0000-0001-7164-6376
+  - given-names: Matthias
+    family-names: Boenig
 repository-code: 'https://github.com/tboenig/gt-test'
 url: 'https://github.com/tboenig/gt-test'
 abstract: ODEM Test GT
@@ -19,6 +20,6 @@ keywords:
   - ground-truth
   - data_structure_and_text
 license: PublicDomainMark 1.0
-commit: v2.1.15
-version: 18_v2.1.15
+commit: v2.1.16
+version: 19_v2.1.16
 date-released: '2023-12-5'
