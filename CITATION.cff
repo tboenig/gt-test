@@ -3,11 +3,7 @@ cff-version: 1.2.0
 title: ODEM Test
 message: If you use this dataset, please cite it using the metadata from this file.
 type: dataset
-authors:
-  
-        /fn:map/fn:array[1]/fn:map[1]
-        /fn:map/fn:array[@key='authors']/fn:map
-        
+authors:        
                 - given-names: Uwe
                   family-names: Hartwig
                   orcid: 0000-0001-7164-6376
