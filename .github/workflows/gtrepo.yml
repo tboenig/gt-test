@@ -297,7 +297,10 @@ jobs:
                   The 'ocrd.zip' files are ocr-d-bagit files.<br/>
                   The 'metadata-v${{ github.run_number }}.zip' file contains metadata for the Ground Truth corpus in both METS and JSON format.<br/>
                   The 'mets.xml' file enumerates all the documents and BagIt files contained within.<br/>
-                  The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.</dd>
+                  The bagits correspond to the <a href="https://ocr-d.de/de/spec/ocrd_zip.html">OCR-D Bagit Spec</a>.<br/>
+                  The source-code-zip and source-code-tar.gz files only provide metadata, citations, license and readme information.<br/>
+                  If you want to use the source files, please clone the repository.
+                  </dd>
                   </dl>
                   </dl>
                 token: ${{ secrets.GITHUB_TOKEN }}
