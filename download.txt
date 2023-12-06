@@ -1,1 +1,1 @@
-https://github.com/tboenig/gt-test/releases/download/v2.1.28/corpus-odem-2021-lat.ocrd.zip
+https://github.com/tboenig/gt-test/releases/download/v2.1.30/corpus-odem-2021-lat.ocrd.zip
