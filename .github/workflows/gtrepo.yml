@@ -284,7 +284,7 @@ jobs:
           - name: Upload Release
             uses: ncipollo/release-action@v1
             with:
-                artifacts: 'README.md,METADATA.yml,LICENSE.md,CITATION.cff,ocrdzip_out/*.zip'
+                artifacts: 'ocrdzip_out/*.zip'
                 artifactContentType: application/zip
                 name: Release ${{ github.run_number }}_${{ github.ref_name }}
                 body: |
