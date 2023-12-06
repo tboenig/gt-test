@@ -1,5 +1,5 @@
 .gitignore export-ignore
 .gitattributes export-ignore
-/.gihub export-ignore
+/.github export-ignore
 /readme_old export-ignore
 /data export-ignore
