@@ -11,7 +11,8 @@ authors:
       family-names: Boenig
 repository-code: 'https://github.com/tboenig/gt-test'
 url: 'https://github.com/tboenig/gt-test'
-abstract: ODEM Test GT
+abstract: |-
+    ODEM Test GT
 keywords:
     - ocr-d
     - repository
@@ -19,6 +20,6 @@ keywords:
     - ground-truth
     - data_structure_and_text
 license: PublicDomainMark 1.0
-commit: v2.1.30
-version: 33_v2.1.30
-date-released: '2023-12-6'
+commit: v2.2.0
+version: 36_v2.2.0
+date-released: '2024-1-16'
