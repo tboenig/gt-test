@@ -24,6 +24,7 @@
             <th>TextLine</th>
             <th>Page</th>
             <th>TxtRegion</th>
+            <th>ImgRegion</th>
             <th>GraphRegion</th>
             <th>SepRegion</th>
             <th>NoiseRegion</th>
@@ -31,12 +32,13 @@
       </thead>
       <tbody>
          <tr>
-            <td>4961</td>
-            <td>128</td>
-            <td>780</td>
-            <td>18</td>
-            <td>5</td>
-            <td>8</td>
+            <td>14292</td>
+            <td>384</td>
+            <td>2182</td>
+            <td>1</td>
+            <td>70</td>
+            <td>9</td>
+            <td>21</td>
          </tr>
       </tbody>
    </table>
@@ -84,6 +86,25 @@
                   <td/>
                   <td>4961</td>
                   <td>128</td>
+               </tr>
+               <tr>
+                  <td>corpus-odem-ger-256</td>
+                  <td>1402</td>
+                  <td>1</td>
+                  <td/>
+                  <td>52</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>13</td>
+                  <td/>
+                  <td/>
+                  <td>9331</td>
+                  <td>256</td>
                </tr>
             </tbody>
          </table>
